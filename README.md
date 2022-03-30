@@ -16,7 +16,7 @@ February 2021 - June 2021
   - [Binary Search vs. Linear Search] - using arrays
   - [Sorting Algortithms]
 
-Learned on my own (not part of the curriculum)
+Learned on my own (not part of the curriculum):
   - [Bits]
   - [ADT - Dictionary]
   - [Pointers to Function]
@@ -31,7 +31,7 @@ September 2021 - January 2022
   - [Binary Search] - on dynamic tables and linked lists
   - [ADT Hash]
 
-Learned on my own (not part of the curriculum)
+Learned on my own (not part of the curriculum):
   - [Resize ADT]
   - [Non comparison - Sorting algorithms]
   - [ADT Tree, Binary Tree]
