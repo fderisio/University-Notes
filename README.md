@@ -3,7 +3,7 @@
 ## **Fundamentals of Programming (C)** 
 February 2021 - June 2021
 
-  - [C libraries]
+  - [C libraries](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/2librerias.c)
   - [Arrays]
   - [Booleans and Strings]
   - [Scope]
