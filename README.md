@@ -4,22 +4,23 @@
 February 2021 - June 2021
 
   - [C libraries](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/2librerias.c)
-  - [Arrays]
-  - [Booleans and Strings]
-  - [Scope]
-  - [Pointers]
-  - [Dynamic Memory]
-  - [Contratos]
+  - [Arrays](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/3arreglos.c)
+  - [Booleans and Strings](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/3booleanos-string.c)
+  - [Scope](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/4alcance.c)
+  - [Pointers](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/4punteros.c)
+  - [Dynamic Memory](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/6memoria_dinamica.c)
+  - [Contratos](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/7contratos.c)
   - [ADT - Queue]
   - [ADT - Stack]
   - [ADT - List]
   - [Binary Search vs. Linear Search] - using arrays
   - [Sorting Algortithms]
+  - [Practice](Fundammentals of Programming/Practice)
 
 Learned on my own (not part of the curriculum):
-  - [Bits]
-  - [ADT - Dictionary]
-  - [Pointers to Function]
+  - [Bits](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/5bits.c)
+  - [ADT - Dictionary](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/8diccionario.c)
+  - [Pointers to Function](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/8punteroafunc.c)
   
 ## **Programming II (C)** 
 September 2021 - January 2022
