@@ -1,7 +1,7 @@
 # University-Notes
 
 **Fundamentals of Programming (C)** February 2021 - June 2021
-  - [C libraries]
+  - [C libraries](2librerias.c)
   - [Arrays]
   - [Booleans and Strings]
   - [Scope]
