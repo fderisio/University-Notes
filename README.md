@@ -11,7 +11,7 @@
   - [ADT - Queue]
   - [ADT - Stack]
   - [ADT - List]
-  - [Binary Search vs. Linear Search]
+  - [Binary Search vs. Linear Search] - on arrays
   - [Sorting Algortithms]
 
 Learned on my own (not part of the curriculum)
@@ -22,7 +22,10 @@ Learned on my own (not part of the curriculum)
 **Programming II (C)** September 2021 - January 2022
   - [Recursion]
   - [Big Oh Notation] - analyze sorting algorithms
+  - [Asserts]
   - [ADT - Linked List]
+  - [ADT using dynamic memory]
+  - [Binary Search] - on dynamic tables and linked lists
   - [ADT Hash]
 
 Learned on my own (not part of the curriculum)
