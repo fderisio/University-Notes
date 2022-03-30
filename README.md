@@ -11,7 +11,7 @@
   - [ADT - Queue]
   - [ADT - Stack]
   - [ADT - List]
-  - [Binary Search vs. Linear Search] - on arrays
+  - [Binary Search vs. Linear Search] - using arrays
   - [Sorting Algortithms]
 
 Learned on my own (not part of the curriculum)
