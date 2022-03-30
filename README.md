@@ -1,6 +1,8 @@
 # University-Notes
 
-## **Fundamentals of Programming (C)** (February 2021 - June 2021)
+## **Fundamentals of Programming (C)** 
+February 2021 - June 2021
+
   - [C libraries]
   - [Arrays]
   - [Booleans and Strings]
@@ -19,7 +21,8 @@ Learned on my own (not part of the curriculum)
   - [ADT - Dictionary]
   - [Pointers to Function]
   
-## **Programming II (C)** (September 2021 - January 2022)
+## **Programming II (C)** 
+September 2021 - January 2022
   - [Recursion]
   - [Big Oh Notation] - analyze sorting algorithms
   - [Asserts]
@@ -35,5 +38,6 @@ Learned on my own (not part of the curriculum)
   - [ADT Binary Search Tree]
   - [ADT AVL Tree]
   
-## **Programming III - OOP (Java)** (February 2022 - June 2022)
+## **Programming III - OOP (Java)** 
+February 2022 - June 2022
 On going...
