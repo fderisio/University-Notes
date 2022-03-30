@@ -1,6 +1,6 @@
 # University-Notes
 
-###**Fundamentals of Programming (C)** February 2021 - June 2021
+###Fundamentals of Programming (C) February 2021 - June 2021
   - [C libraries]
   - [Arrays]
   - [Booleans and Strings]
