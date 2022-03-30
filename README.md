@@ -27,10 +27,10 @@ September 2021 - January 2022
   - [Recursion]
   - [Big Oh Notation] - analyze sorting algorithms
   - [Asserts]
-  - [ADT - Linked List]
+  - [ADT - Linked List](https://github.com/fderisio/University-Notes/tree/main/Programming%20%26%20Algorithms%20II/TDA)
   - [ADT using dynamic memory]
   - [Binary Search] - on dynamic tables and linked lists
-  - [ADT Hash]
+  - [ADT Hash](https://github.com/fderisio/University-Notes/tree/main/Programming%20%26%20Algorithms%20II/TDA)
 
 Learned on my own (not part of the curriculum):
   - [Resize ADT]
