@@ -20,7 +20,7 @@ Learned on my own (not part of the curriculum)
   - [Pointers to Function]
   
 **Programming II (C)** September 2021 - January 2022
-  - [Recursion] - analyze sorting algorithms
+  - [Recursion]
   - [Big Oh Notation] - analyze sorting algorithms
   - [ADT - Linked List]
   - [ADT Hash]
