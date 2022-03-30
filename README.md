@@ -15,7 +15,7 @@ February 2021 - June 2021
   - [ADT - List]
   - [Binary Search vs. Linear Search] - using arrays
   - [Sorting Algortithms]
-  - [Practice](Fundammentals of Programming/Practice)
+  - [Practice]
 
 Learned on my own (not part of the curriculum):
   - [Bits](https://github.com/fderisio/University-Notes/blob/main/Fundammentals%20of%20Programming/5bits.c)
